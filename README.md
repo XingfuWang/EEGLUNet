@@ -1,4 +1,3 @@
-# EEGLUNet: Fast and Discriminative EEG Representation Learning in LU-Decomposed Space
 This repository provides the official PyTorch implementation of **EEGLUNet**, a novel network for efficient and discriminative EEG feature representation learning proposed in our ICASSP 2026 paper.
 
 > **EEGLUNet: Fast and Discriminative EEG Representation Learning in LU-Decomposed Space**
@@ -73,15 +72,15 @@ If this repository and our work benefit your research, please star ⭐ this repo
 ```bibtex
 @INPROCEEDINGS{11462965,
   author={Wang, Xingfu and Qi, Wenxia and Yang, Wenjie and Hu, Boshang and Liu, Chuman and Wang, Wei},
-  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  title={EEGLUNet: Fast and Discriminative EEG Representation Learning in LU-Decomposed Space},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={EEGLUNet: Fast and Discriminative EEG Representation Learning in LU-Decomposed Space}, 
   year={2026},
   volume={},
   number={},
   pages={7216-7220},
   keywords={Filtering;Filters;Band-pass filters;Filter banks;Active filters;Circuits and systems;Protocols;Radio access networks;Regional area networks;Communication systems;EEG;Signal processing;Deep learning;Neural network},
-  doi={10.1109/ICASSP55912.2026.11462965}
-}
+  doi={10.1109/ICASSP55912.2026.11462965}}
+
 ```
 
 ## 5. Contact
